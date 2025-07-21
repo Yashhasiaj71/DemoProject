@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
+ // this is a change
         // to view change
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
